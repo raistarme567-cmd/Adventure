@@ -1,0 +1,8 @@
+{
+  "name": "InstaGemini",
+  "description": "A feature-rich Instagram clone with AI-powered features like image generation, smart captions, and real-time interaction using Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
